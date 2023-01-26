@@ -9,5 +9,6 @@ Ejemplo:
     - */15 * * * * python3 /home/(usuario)/.scripts/ovhIPChanger/app.py >> /home/(usuario)/.zlog/crontab.log 2>&1
     
     
-    Saludos pringaos.
-    by ussefzanna.
+  
+  Saludos pringaos.
+  by ussefzanna.
