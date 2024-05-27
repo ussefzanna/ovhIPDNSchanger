@@ -1,5 +1,5 @@
 # ovhIPDNSchanger
-Programa basico para cambiar las IP's de los sub-dominios vinculados a dynDNS de OVH.com.
+Script basico para cambiar las IP's de los sub-dominios vinculados a dynDNS de OVH.com.
 
 Ejemplo: 
   Uso en raspberry pi con Ubuntu server ARM64.
